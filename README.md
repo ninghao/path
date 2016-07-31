@@ -3,6 +3,7 @@
 *   [命令行](http://ninghao.net/course/3501)
 
 ## 编辑器
+准备一款现代的代码编辑器，开始不要浪费太多时间在选择上，用你最熟悉的就行。如果还没谱用哪个，可以跟我一样使用 Atom 编辑器。如果我发现更好的，绝对不会自己偷着用。
 *   [Atom：代码编辑器](http://ninghao.net/course/2025)
 *   [Emmet：HTML 与 CSS 缩写](http://ninghao.net/course/1123)
 
