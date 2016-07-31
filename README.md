@@ -86,6 +86,7 @@ Facebook 出品的前端应用框架，可以基于它创建前端应用。
 ---
 
 ## Linux
+Linux 是最常用的服务器操作系统，有很多发行版本，比如 CentOS，Ubuntu 等等。
 *   [Linux 文件与目录权限](http://ninghao.net/course/2508)
 *   [yum：CentOS 包管理工具](http://ninghao.net/course/3507)
 *   [systemctl：Linux 服务管理](http://ninghao.net/course/3518)
