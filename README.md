@@ -1,4 +1,5 @@
 ## 命令行
+我保证在你的工作中一定会用到命令行，尽早熟悉在命令行界面下工作会非常的有帮助。macOS 用户打开 Terminal（终端），Windows 用户打开 Powershell，练习一些常用的命令。
 *   [命令行](http://ninghao.net/course/3501)
 
 ## 编辑器
