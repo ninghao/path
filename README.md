@@ -62,6 +62,7 @@ CSS 与 JavaScript 框架，可以基于它创建应用的用户界面。
 *   [Semantic UI 集合](http://ninghao.net/course/2858)
 
 ## Bootstrap
+CSS 与 JavaScript 框架，可以基于它创建应用的用户界面。
 *   [Bootstrap 3 基础](http://ninghao.net/course/1553)
 *   [Bootstrap 4 新功能](http://ninghao.net/course/2921)
 
