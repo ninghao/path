@@ -2,7 +2,7 @@
 *   [命令行](http://ninghao.net/course/3501)
 
 ## 编辑器
-*   [Atom：代码编辑器](http://ninghao.net/course/2025)
+*   [Atom：代码编辑器](http://ninghao.net/course/2025)
 *   [Emmet：HTML 与 CSS 缩写](http://ninghao.net/course/1123)
 
 ## 版本控制
