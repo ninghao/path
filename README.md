@@ -72,6 +72,7 @@ Facebook 出品的前端应用框架，可以基于它创建前端应用。
 *   [React 路由](http://ninghao.net/course/2986)
 
 ## React Native
+用 React 的方式创建移动端的本地应用，比如 iOS 或 Android 应用。
 *   [React 本地应用 #1](http://ninghao.net/course/3001)
 *   [React 本地应用 #2 导航](http://ninghao.net/course/3088)
 *   [React 本地应用 #3 文本框](http://ninghao.net/course/3114)
