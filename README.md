@@ -18,6 +18,7 @@
 ---
 
 ## 前端工具
+前端项目相关的工具，需要的时候可以过来学一下。
 *   [前端库](http://ninghao.net/course/2939)
 *   [前端工具箱](http://ninghao.net/course/3074)
 *   [Bower 前端包管理](http://ninghao.net/course/1959)
