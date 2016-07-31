@@ -12,6 +12,7 @@
 *   [Git：版本控制](http://ninghao.net/course/1882)
 
 ## 虚拟机
+你打算学一下 Linux，模拟一下服务器环境，搭建一个运行网站的环境，可以在本地创建一些 Linux 系统的虚拟机。用 Vagrant 管理虚拟机简单方便。
 *   [Vagrant：虚拟机管理](http://ninghao.net/course/1569)
 
 ---
