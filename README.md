@@ -1,5 +1,4 @@
-## 准备
-*   [准备工作](http://ninghao.net/course/2557)
+## 命令行
 *   [命令行](http://ninghao.net/course/3501)
 
 ## 编辑器
