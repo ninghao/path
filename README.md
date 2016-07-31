@@ -67,6 +67,7 @@ CSS 与 JavaScript 框架，可以基于它创建应用的用户界面。
 *   [Bootstrap 4 新功能](http://ninghao.net/course/2921)
 
 ## React
+Facebook 出品的前端应用框架，可以基于它创建前端应用。
 *   [React 基础](http://ninghao.net/course/2967)
 *   [React 路由](http://ninghao.net/course/2986)
 
