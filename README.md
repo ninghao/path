@@ -117,7 +117,8 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 ## MySQL
 *   [MySQL 基础](http://ninghao.net/course/1736)
 
-## Drupal 7
+## Drupal
+### 版本: 7.x
 *   [Drupal 日常维护](http://ninghao.net/course/1699)
 *   [Drupal 7 基础（上）](http://ninghao.net/course/546)
 *   [Drupal 7 基础（下）](http://ninghao.net/course/571)
@@ -131,7 +132,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [创建宁皓网 #2：内容结构](http://ninghao.net/course/2644)
 *   [创建宁皓网 #3：电子商务](http://ninghao.net/course/2721)
 
-## Drupal 8
+### 版本: 8.x
 *   [Drupal 8：字段](http://ninghao.net/course/3150)
 *   [Drupal 8：视图（上）](http://ninghao.net/course/3178)
 *   [Drupal 8：视图（下）](http://ninghao.net/course/3203)
