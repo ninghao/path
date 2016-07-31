@@ -8,6 +8,7 @@
 *   [Emmet：HTML 与 CSS 缩写](http://ninghao.net/course/1123)
 
 ## 版本控制
+项目的代码要用版本控制工具来管理，这是一定要做的事情，这样你才有机会进步，去跟别人合作。Git 是版本控制工具的一种。macOS 安装 Git 以后可以使用终端来操作，Windows 安装 Git 以后可以使用 Git Bash。
 *   [Git：版本控制](http://ninghao.net/course/1882)
 
 ## 虚拟机
