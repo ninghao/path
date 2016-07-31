@@ -53,6 +53,7 @@
 *   [Backbone 应用实例](http://ninghao.net/course/1510)
 
 ## Semantic UI
+CSS 与 JavaScript 框架，可以基于它创建应用的用户界面。
 *   [Semantic UI 元素](http://ninghao.net/course/2753)
 *   [Semantic UI 视图](http://ninghao.net/course/2779)
 *   [Semantic UI 网格](http://ninghao.net/course/2796)
