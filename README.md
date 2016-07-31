@@ -161,12 +161,12 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [WordPress REST 接口](http://ninghao.net/course/3315)
 
 ## Laravel
-### 版本：4
+### 版本：4.x
 *   [Laravel 4 基础](http://ninghao.net/course/1642)
 *   [Laravel 数据库](http://ninghao.net/course/1729)
 *   [Laravel 身份验证](http://ninghao.net/course/1921)
 
-### 版本：5
+### 版本：5.x
 *   [Laravel 5：路由](http://ninghao.net/course/3225)
 *   [Laravel 5：控制器](http://ninghao.net/course/3258)
 *   [Laravel 5：视图](http://ninghao.net/course/3281)
