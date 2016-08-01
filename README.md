@@ -116,6 +116,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 ---
 
 ## PHP
+一种后端应用的脚本语言，Drupal，WordPress，Laravel 都是基于这种语言编写的。
 *   [PHP 基础](http://ninghao.net/course/1528)
 *   [PHP 面向对象](http://ninghao.net/course/1855)
 
