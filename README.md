@@ -185,6 +185,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 ---
 
 ## 其它
+不知道把它们放到哪里合适。
 *   [HTML5 与 Bootstrap 应用实例](http://ninghao.net/course/663)
 *   [MixItUp：动画过滤与排序](http://ninghao.net/course/3730)
 *   [Plyr 播放器](http://ninghao.net/course/3754)
