@@ -121,6 +121,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [PHP 面向对象](http://ninghao.net/course/1855)
 
 ## MySQL
+一种关系类型的数据库管理系统，应用产生的数据可以放在这种数据库里来管理。了解下 SQL 语言的基本用法。
 *   [MySQL 基础](http://ninghao.net/course/1736)
 
 ## Drupal
