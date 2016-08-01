@@ -98,6 +98,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [LEMP 网站应用运行环境](http://ninghao.net/course/2522)
 
 ## Docker
+网站从本地到生产之间的业务流程，使用 Docker 会更简单。只有尝试之后才知道它到底是什么。
 *   [Docker：镜像与容器](http://ninghao.net/course/3764)
 *   [Docker：存储](http://ninghao.net/course/3808)
 *   [Docker：网络](http://ninghao.net/course/3814)
