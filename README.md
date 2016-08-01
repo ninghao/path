@@ -170,6 +170,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [WordPress REST 接口](http://ninghao.net/course/3315)
 
 ## Laravel
+这个框架改变了很多人对 PHP 这种语言的看法。
 ### 版本：4.x
 *   [Laravel 4 基础](http://ninghao.net/course/1642)
 *   [Laravel 数据库](http://ninghao.net/course/1729)
