@@ -107,6 +107,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Docker：集群](http://ninghao.net/course/3870)
 
 ## 阿里云
+支持应用运行的服务，可以使用阿里云提供的各种服务。不贵，稳定，可扩展。
 *   [阿里云 ECS：Linux 服务器](http://ninghao.net/course/1584)
 *   [阿里云 RDS：关系数据库](http://ninghao.net/course/3594)
 *   [阿里云 SLB：负载均衡](http://ninghao.net/course/3604)
