@@ -30,6 +30,7 @@
 *   [webpack：模块打包](http://ninghao.net/course/3443)
 
 ## HTML
+网页上的文字，标题，列表，表格，表单... 这些元素都是用 HTML 标记组成的。
 *   [HTML：标记语言](http://ninghao.net/course/3480)
 
 ## CSS
