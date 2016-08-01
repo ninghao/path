@@ -125,6 +125,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [MySQL 基础](http://ninghao.net/course/1736)
 
 ## Drupal
+内容管理系统，你可以基于它创建自己的应用。企业，政府，大学，娱乐界的很多大牌都相信 Drupal。
 ### 版本: 7.x
 *   [Drupal 日常维护](http://ninghao.net/course/1699)
 *   [Drupal 7 基础（上）](http://ninghao.net/course/546)
