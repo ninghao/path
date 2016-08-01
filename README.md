@@ -42,6 +42,7 @@
 *   [Sass 基础](http://ninghao.net/course/2094)
 
 ## JavaScript
+网页上元素的交互功能是用 JavaScript 语言创建的。比如点击了什么，要做什么。提交了表单以后要怎么样处理表单里的数据。
 *   [JavaScript 基础](http://ninghao.net/course/1235)
 *   [jQuery 基础](http://ninghao.net/course/1295)
 *   [ECMAScript 新功能](http://ninghao.net/course/3032)
