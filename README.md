@@ -34,6 +34,7 @@
 *   [HTML：标记语言](http://ninghao.net/course/3480)
 
 ## CSS
+网页上的文字，标题，列表，表格，表单的显示样式，比如颜色，大小，阴影，背景... 都是用 CSS 添加的。
 *   [CSS：样式语言](http://ninghao.net/course/3455)
 *   [CSS：选择器](http://ninghao.net/course/1091)
 *   [CSS：Flexbox 布局](http://ninghao.net/course/2948)
