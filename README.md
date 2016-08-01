@@ -198,6 +198,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [宁皓网](http://ninghao.net/course/3404)
 
 ## 废弃
+这些课程可以存档了，无聊的时候可以看看当初的傻样。
 *   [Joomla 1.5 基础](http://ninghao.net/course/1)
 *   [Joomla 1.5 发布网站](http://ninghao.net/course/2)
 *   [Joomla 模板架构：T3](http://ninghao.net/course/341)
