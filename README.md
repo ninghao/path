@@ -112,6 +112,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [阿里云 RDS：关系数据库](http://ninghao.net/course/3594)
 *   [阿里云 SLB：负载均衡](http://ninghao.net/course/3604)
 *   [阿里云邮件推送](http://ninghao.net/course/3631)
+*   [阿里云 VPC：专有网络](http://ninghao.net/course/3968)
 
 ---
 
