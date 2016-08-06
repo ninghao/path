@@ -281,6 +281,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 
 ### 后端
 *   [Drupal 7.x](https://www.drupal.org/)：内容管理系统。
+*   [Discourse](https://www.discourse.org/)：论坛。
 
 ### 服务
 *   [阿里云：ECS - ecs.s1.small - 4 台](https://ecs.console.aliyun.com/)：云服务器。
