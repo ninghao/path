@@ -267,6 +267,27 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Photoshop CS5 网页设计](http://ninghao.net/course/3)
 
 # 附录
+## 宁皓网
+### 前端
+*   [Bootstrap 3.x](http://getbootstrap.com/)：css 与 js 框架。
+*   [Semantic UI 2.x](http://semantic-ui.com/)：css 与 js 框架。
+*   [Plyr](https://plyr.io/)：视频播放器。
+*   [Vide](http://vodkabears.github.io/vide/)：视频背景。
+*   [ScrollReveal](https://scrollrevealjs.org/)：滚动动画。
+*   [Headroom.js](http://wicky.nillia.ms/headroom.js/)：滚动隐藏页头。
+*   [Animate.css](https://daneden.github.io/animate.css/)：CSS 动画。
+*   [MixItUp](https://mixitup.kunkalabs.com/)：带动画效果的过滤与排序。
+
+### 后端
+*   [Drupal 7.x](https://www.drupal.org/)：内容管理系统。
+
+### 服务
+*   [阿里云：ECS - ecs.s1.small - 4 台](https://ecs.console.aliyun.com/)：云服务器。
+*   [阿里云：SLB - 1 台](https://slbnew.console.aliyun.com)：负载平衡。
+*   [阿里云：RDS - 240M 内存 - 1 台](https://rdsnew.console.aliyun.com/console/index)：云数据库。
+*   [阿里云：Memcache - 1G - 1 台](https://ocsnew.console.aliyun.com/)：缓存服务。
+*   [阿里云邮件推送](https://dm.console.aliyun.com/)：发邮件的服务。
+
 ## Atom 插件列表
 
 *   [emmet](https://atom.io/packages/emmet)：html 与 css 的缩写。
