@@ -268,6 +268,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [emmet](https://atom.io/packages/emmet)：html 与 css 的缩写。
 *   [git-plus](https://atom.io/packages/git-plus)：git 在编辑器上的高级功能。
 *   [language-nginx](https://atom.io/packages/language-nginx)：nginx 配置文件的高亮显示。
+*   [language-babel](https://atom.io/packages/language-babel)：写 React 应用时会用到。
 
 ## 视频录制
 
