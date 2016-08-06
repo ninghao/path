@@ -270,8 +270,8 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 # 附录
 ## 宁皓网
 ### 前端
-*   [Bootstrap 3.x](http://getbootstrap.com/)：css 与 js 框架。
-*   [Semantic UI 2.x](http://semantic-ui.com/)：css 与 js 框架。
+*   [Bootstrap 3.x](http://getbootstrap.com/)：CSS 与 JavaScript 框架。
+*   [Semantic UI 2.x](http://semantic-ui.com/)：CSS 与 JavaScript 框架。
 *   [Plyr](https://plyr.io/)：视频播放器。
 *   [Vide](http://vodkabears.github.io/vide/)：视频背景。
 *   [ScrollReveal](https://scrollrevealjs.org/)：滚动动画。
