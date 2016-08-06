@@ -268,7 +268,9 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Photoshop CS5 网页设计](http://ninghao.net/course/3)
 
 # 附录
+
 ## 宁皓网
+
 ### 前端
 *   [Bootstrap 3.x](http://getbootstrap.com/)：CSS 与 JavaScript 框架。
 *   [Semantic UI 2.x](http://semantic-ui.com/)：CSS 与 JavaScript 框架。
@@ -291,7 +293,6 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [阿里云邮件推送](https://dm.console.aliyun.com/)：发邮件的服务。
 
 ## Atom 插件列表
-
 *   [emmet](https://atom.io/packages/emmet)：html 与 css 的缩写。
 *   [color-picker](https://atom.io/packages/color-picker)：颜色选择工具。
 *   [git-plus](https://atom.io/packages/git-plus)：git 在编辑器上的高级功能。
