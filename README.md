@@ -187,6 +187,11 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 ## Node.js
 在服务端运行的 JavaScript。
 *   [Node.js](http://ninghao.net/course/3912)
+
+## Swift
+创建 iOS，macOS 应用需要用的语言。
+*   [Swift 语言](http://ninghao.net/course/3781)
+
 ---
 
 ## 其它
@@ -196,7 +201,6 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Plyr 播放器](http://ninghao.net/course/3754)
 *   [使用 Ansible](http://ninghao.net/course/2580)
 *   [游乐场](http://ninghao.net/course/2707)
-*   [Swift 语言](http://ninghao.net/course/3781)
 *   [oAuth 2.0 身份验证流程](http://ninghao.net/course/3193)
 *   [MongoDB](http://ninghao.net/course/3898)
 *   [宁皓网](http://ninghao.net/course/3404)
