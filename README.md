@@ -286,6 +286,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Sennheiser MKS4](http://en-de.sennheiser.com/mks-4)：森海塞尔麦克风防震架。
 *   [Sennheiser eW100 G3](http://en-us.sennheiser.com/lavalier-clip-on-microphones-wireless-set-presentation-ew-112-p-g3)：森海塞尔无线麦克风。
 *   [Sennheiser MKE2-eW Gold](http://en-hk.sennheiser.com/clip-on-lavalier-microphone-live-speech-instrument-mke-2)：森海塞尔领夹式麦克风。
+*   [M-Audio MobilePre](http://www.m-audio.com/)：USB 声卡。
 *   iSK Microphone Stand：iSK 麦克风支架。
 *   [Canon EOS 5D Mark III](http://www.canon.com.cn/products/camera/eos/lineup/5dmk3/)：佳能全画幅单反相机。
 *   [Canon EF 16-35mm f/2.8L II USM](http://www.canon.com.cn/products/camera/ef/lineup/widezoom/ef1635f28lii/)：佳能全画幅单反相机镜头。
