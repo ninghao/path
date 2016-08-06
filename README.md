@@ -261,3 +261,10 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [AngularJS 基础](http://ninghao.net/course/2034)
 *   [PhoneGap 基础](http://ninghao.net/course/1143)
 *   [Photoshop CS5 网页设计](http://ninghao.net/course/3)
+
+# 附录
+## Atom 插件列表
+
+*   [emmet](https://atom.io/packages/emmet)：html 与 css 的缩写。
+*   [git-plus](https://atom.io/packages/git-plus)：git 在编辑器上的高级功能。
+*   [language-nginx](https://atom.io/packages/language-nginx)：nginx 配置文件的高亮显示。
