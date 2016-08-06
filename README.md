@@ -268,3 +268,25 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [emmet](https://atom.io/packages/emmet)：html 与 css 的缩写。
 *   [git-plus](https://atom.io/packages/git-plus)：git 在编辑器上的高级功能。
 *   [language-nginx](https://atom.io/packages/language-nginx)：nginx 配置文件的高亮显示。
+
+## 视频录制
+
+### 软件
+*   [Screenflow](http://www.telestream.net/screenflow/)：屏幕录像与编辑软件。
+*   [Adobe Audition](http://www.adobe.com/hk_en/products/audition.html)：声音编辑软件。
+*   [Handbrake](https://handbrake.fr/)：视频压缩软件。
+*   [MetaX](https://www.kerstetter.net/)：媒体文件打标签。
+
+### 硬件
+*   [iMac (21.5-inch, Late 2012)](http://www.apple.com/cn/imac/)：苹果一体机。
+*   [MacBook](http://www.apple.com/cn/macbook/)：苹果笔记本。
+*   [Sennheiser MK4](http://en-us.sennheiser.com/condenser-microphone-studio-recordings-professional-mk-4)：森海塞尔麦克风。
+*   [Sennheiser MKS4](http://en-de.sennheiser.com/mks-4)：森海塞尔麦克风防震架。
+*   [Sennheiser eW100 G3](http://en-us.sennheiser.com/lavalier-clip-on-microphones-wireless-set-presentation-ew-112-p-g3)：森海塞尔无线麦克风。
+*   [Sennheiser MKE2-eW Gold](http://en-hk.sennheiser.com/clip-on-lavalier-microphone-live-speech-instrument-mke-2)：森海塞尔领夹式麦克风。
+*   iSK Microphone Stand：iSK 麦克风支架。
+*   [Canon EOS 5D Mark III](http://www.canon.com.cn/products/camera/eos/lineup/5dmk3/)：佳能全画幅单反相机。
+*   [Canon EF 16-35mm f/2.8L II USM](http://www.canon.com.cn/products/camera/ef/lineup/widezoom/ef1635f28lii/)：佳能全画幅单反相机镜头。
+*   [Canon EF 100mm f/2.8L IS USM 微距](http://www.canon.com.cn/products/camera/ef/lineup/macro/ef100f28l/)：佳能全画幅单反相机镜头。
+*   [Marsace MT-1541T](http://www.marsace.com/index.php/en/products-en/tripods-en/mt-1541-fb1-en)：马小路三角架。
+*   [Marsace FB-1R](http://www.marsace.com/index.php/en/products-en/ball-heads-en/fb-series-en/fb-1r-en)：马小路三角架云台。
