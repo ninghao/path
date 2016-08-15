@@ -137,6 +137,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Syncthing 文件同步](http://ninghao.net/course/2686)
 
 ## Web 服务器
+*   [NGINX：Web 服务器](http://ninghao.net/course/3996)
 *   [LEMP 网站应用运行环境](http://ninghao.net/course/2522)
 
 ## Docker
