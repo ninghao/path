@@ -35,6 +35,7 @@
 ## 附录
 *   [宁皓网](https://github.com/ninghao/path#宁皓网)
 *   [Atom 插件列表](https://github.com/ninghao/path#atom-插件列表)
+*   [Chrome 插件列表](https://github.com/ninghao/path#chrome-插件列表)
 *   [视频录制](https://github.com/ninghao/path#视频录制)
 
 # 课程列表
@@ -308,6 +309,13 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [git-plus](https://atom.io/packages/git-plus)：git 在编辑器上的高级功能。
 *   [language-nginx](https://atom.io/packages/language-nginx)：nginx 配置文件的高亮显示。
 *   [language-babel](https://atom.io/packages/language-babel)：写 React 应用时会用到。
+
+## Chrome 插件列表
+*   [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij)：新建的标签会是一个空白页面。
+*   [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)：开发前端应用时经常会用到。
+*   [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)：React 开发工具。
+*   [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)：查看网站是用什么做的。
+*   [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)：用快捷的方式浏览页面。
 
 ## 视频录制
 
