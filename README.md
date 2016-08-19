@@ -36,7 +36,7 @@
 *   [宁皓网](https://github.com/ninghao/path#宁皓网)
 *   [Atom 插件列表](https://github.com/ninghao/path#atom-插件列表)
 *   [Chrome 插件列表](https://github.com/ninghao/path#chrome-插件列表)
-*   [macOS 应用列表](https://github.com/ninghao/path#macos-应用)
+*   [macOS 应用列表](https://github.com/ninghao/path#macos-应用列表)
 *   [视频录制](https://github.com/ninghao/path#视频录制)
 
 # 课程列表
