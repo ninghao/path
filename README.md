@@ -36,6 +36,7 @@
 *   [宁皓网](https://github.com/ninghao/path#宁皓网)
 *   [Atom 插件列表](https://github.com/ninghao/path#atom-插件列表)
 *   [Chrome 插件列表](https://github.com/ninghao/path#chrome-插件列表)
+*   [macOS 应用列表](https://github.com/ninghao/path#macos-应用)
 *   [视频录制](https://github.com/ninghao/path#视频录制)
 
 # 课程列表
@@ -316,6 +317,12 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)：React 开发工具。
 *   [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)：查看网站是用什么做的。
 *   [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)：用快捷的方式浏览页面。
+
+## macOS 应用列表
+*   [Evernote](https://evernote.com/)：笔记。
+*   [Snip](http://www.snip.qq.com/)：截图。
+*   [Noizio](http://noiz.io/)：自然的声音。
+*   [Toggl](https://toggl.com/)：时间跟踪。
 
 ## 视频录制
 
