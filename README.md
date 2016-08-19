@@ -6,6 +6,7 @@
 *   [版本控制](https://github.com/ninghao/path#版本控制)
 *   [虚拟机](https://github.com/ninghao/path#虚拟机)
 *   [前端工具](https://github.com/ninghao/path#前端工具)
+*   [正则表达式](https://github.com/ninghao/path#正则表达式)
 
 ## 语言
 *   [HTML](https://github.com/ninghao/path#html)
@@ -125,6 +126,11 @@ Facebook 出品的前端应用框架，可以基于它创建前端应用。
 *   [React Native 组件](http://ninghao.net/course/3389)
 *   [WordPress 与 React Native](http://ninghao.net/course/3355)
 *   [Drupal 8 与 React Native](http://ninghao.net/course/3371)
+
+---
+
+## 正则表达式
+*   [正则表达式](http://ninghao.net/course/4020)
 
 ---
 
