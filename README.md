@@ -19,6 +19,7 @@
 ## 服务
 *   [Linux](https://github.com/ninghao/path#linux)
 *   [Web 服务器](https://github.com/ninghao/path#web-服务器)
+*   [自动化配置](https://github.com/ninghao/path#自动化配置)
 *   [Docker](https://github.com/ninghao/path#docker)
 *   [阿里云](https://github.com/ninghao/path#阿里云)
 
@@ -147,6 +148,9 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 ## Web 服务器
 *   [NGINX：Web 服务器](http://ninghao.net/course/3996)
 *   [LEMP 网站应用运行环境](http://ninghao.net/course/2522)
+
+## 自动化配置
+*   [Ansible：自动化配置](http://ninghao.net/course/4032)
 
 ## Docker
 网站从本地到生产之间的业务流程，使用 Docker 会更简单。只有尝试之后才知道它到底是什么。
