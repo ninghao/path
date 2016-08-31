@@ -314,6 +314,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [git-plus](https://atom.io/packages/git-plus)：git 在编辑器上的高级功能。
 *   [language-nginx](https://atom.io/packages/language-nginx)：nginx 配置文件的高亮显示。
 *   [language-babel](https://atom.io/packages/language-babel)：写 React 应用时会用到。
+*   [linter-js-standard](https://atom.io/packages/linter-js-standard)：JavaScript 代码风格标准。
 
 ## Chrome 插件列表
 *   [Empty New Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page/dpjamkmjmigaoobjbekmfgabipmfilij)：新建的标签会是一个空白页面。
