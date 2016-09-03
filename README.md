@@ -242,6 +242,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 ## Node.js
 在服务端运行的 JavaScript。
 *   [Node.js](http://ninghao.net/course/3912)
+*   [Node.js：测试](http://ninghao.net/course/4065)
 
 ## Swift
 创建 iOS，macOS 应用需要用的语言。
