@@ -31,6 +31,7 @@
 *   [WordPress](https://github.com/ninghao/path#wordpress)
 *   [Drupal](https://github.com/ninghao/path#drupal)
 *   [Laravel](https://github.com/ninghao/path#laravel)
+*   [Ruby on Rails](https://github.com/ninghao/path#rails)
 *   [Node.js](https://github.com/ninghao/path#nodejs)
 
 ## 附录
@@ -238,6 +239,11 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Laravel 5：控制器](http://ninghao.net/course/3258)
 *   [Laravel 5：视图](http://ninghao.net/course/3281)
 *   [Laravel 5：模板](http://ninghao.net/course/3294)
+
+## Rails
+Ruby on Rails。
+### 版本 5.x
+*   [Ruby on Rails：起步](http://ninghao.net/course/4101)
 
 ## Node.js
 在服务端运行的 JavaScript。
