@@ -244,6 +244,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 Ruby on Rails。
 ### 版本 5.x
 *   [Ruby on Rails：起步](http://ninghao.net/course/4101)
+*   [Rails：数据库 Migration](http://ninghao.net/course/4133)
 
 ## Node.js
 在服务端运行的 JavaScript。
