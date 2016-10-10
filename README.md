@@ -245,6 +245,7 @@ Ruby on Rails。
 ### 版本 5.x
 *   [Ruby on Rails：起步](http://ninghao.net/course/4101)
 *   [Rails：数据库 Migration](http://ninghao.net/course/4133)
+*   [Rails：关联](http://ninghao.net/course/4154)
 
 ## Node.js
 在服务端运行的 JavaScript。
