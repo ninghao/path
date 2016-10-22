@@ -247,6 +247,7 @@ Ruby on Rails。
 *   [Rails：数据库 Migration](http://ninghao.net/course/4133)
 *   [Rails：关联](http://ninghao.net/course/4154)
 *   [Rails：查询接口](http://ninghao.net/course/4171)
+*   [Rails 控制器](http://ninghao.net/course/4197)
 *   [Rails：视图](http://ninghao.net/course/4218)
 
 ## Node.js
