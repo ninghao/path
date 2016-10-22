@@ -15,6 +15,7 @@
 *   [PHP](https://github.com/ninghao/path#php)
 *   [SQL](https://github.com/ninghao/path#mysql)
 *   [Swift](https://github.com/ninghao/path#swift)
+*   [Ruby](https://github.com/ninghao/path#ruby)
 
 ## 服务
 *   [Linux](https://github.com/ninghao/path#linux)
@@ -240,6 +241,9 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Laravel 5：视图](http://ninghao.net/course/3281)
 *   [Laravel 5：模板](http://ninghao.net/course/3294)
 
+## Ruby
+*   [Ruby 语言](http://ninghao.net/course/4234)
+
 ## Rails
 Ruby on Rails。
 ### 版本 5.x
@@ -247,7 +251,7 @@ Ruby on Rails。
 *   [Rails：数据库 Migration](http://ninghao.net/course/4133)
 *   [Rails：关联](http://ninghao.net/course/4154)
 *   [Rails：查询接口](http://ninghao.net/course/4171)
-*   [Rails 控制器](http://ninghao.net/course/4197)
+*   [Rails：控制器](http://ninghao.net/course/4197)
 *   [Rails：视图](http://ninghao.net/course/4218)
 
 ## Node.js
