@@ -137,6 +137,7 @@ Facebook 出品的前端应用框架，可以基于它创建前端应用。
 一个与 React 齐名的前端框架。
 *   [Vue.js：预览](http://ninghao.net/course/4256)
 *   [Vue.js 前端框架](http://ninghao.net/course/4276)
+*   [Vue.js: 组件](http://ninghao.net/course/4298)
 
 ---
 
