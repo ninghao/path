@@ -34,6 +34,7 @@
 *   [Laravel](https://github.com/ninghao/path#laravel)
 *   [Ruby on Rails](https://github.com/ninghao/path#rails)
 *   [Node.js](https://github.com/ninghao/path#nodejs)
+*   [Vue.js](https://github.com/ninghao/path#vuejs)
 
 ## 附录
 *   [宁皓网](https://github.com/ninghao/path#宁皓网)
@@ -131,6 +132,11 @@ Facebook 出品的前端应用框架，可以基于它创建前端应用。
 *   [React Native 组件](http://ninghao.net/course/3389)
 *   [WordPress 与 React Native](http://ninghao.net/course/3355)
 *   [Drupal 8 与 React Native](http://ninghao.net/course/3371)
+
+## Vue.js
+一个与 React 齐名的前端框架。
+*   [Vue.js：预览](http://ninghao.net/course/4256)
+*   [Vue.js 前端框架](http://ninghao.net/course/4276)
 
 ---
 
