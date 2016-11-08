@@ -85,6 +85,7 @@
 *   [CSS：样式语言](http://ninghao.net/course/3455)
 *   [CSS：选择器](http://ninghao.net/course/1091)
 *   [CSS：Flexbox 布局](http://ninghao.net/course/2948)
+*   [CSS：过渡](http://ninghao.net/course/4307)
 *   [响应式网页设计](http://ninghao.net/course/1002)
 *   [Sass 基础](http://ninghao.net/course/2094)
 
