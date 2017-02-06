@@ -229,6 +229,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Drupal 8：多语言](https://ninghao.net/course/3740)
 *   [Drupal 8：REST 接口](https://ninghao.net/course/3335)
 *   [Drupal 8：配置管理](https://ninghao.net/course/4386)
+*   [Drupal 8：电子商务](https://ninghao.net/course/4460)
 
 ## WordPress
 蓝色星球上用的最多的内容管理系统，你也可以基于它创建自己的网站应用。
