@@ -222,6 +222,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [Drupal 8：字段](https://ninghao.net/course/3150)
 *   [Drupal 8：视图（上）](https://ninghao.net/course/3178)
 *   [Drupal 8：视图（下）](https://ninghao.net/course/3203)
+*   [Drupal：Console](https://ninghao.net/course/4478)
 *   [Drupal 8 开发：控制器与路由](https://ninghao.net/course/3676)
 *   [Drupal 8 开发：资源管理](https://ninghao.net/course/3687)
 *   [Drupal 8 开发：表单](https://ninghao.net/course/3708)
