@@ -190,6 +190,7 @@ Linux 是最常用的服务器操作系统，有很多发行版本，比如 Cent
 *   [阿里云邮件推送](https://ninghao.net/course/3631)
 *   [阿里云 VPC：专有网络](https://ninghao.net/course/3968)
 *   [阿里云 ROS：资源编排](https://ninghao.net/course/3969)
+*   [阿里云：域名](https://ninghao.net/course/4518)
 
 ---
 
